@@ -15,6 +15,6 @@ A menu-driven C program to manage employee records — supports searching by ID,
 - Searching and filtering logic
 
 ## About
-Built as part of college curriculum - First Year CSE
+Built as part of cummins college curriculum - First Year CSE
 
 
